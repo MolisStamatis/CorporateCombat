@@ -8,3 +8,6 @@
 
 ### Version 0.0.0.3
 - Keys (Physical) for John Buisness now swapped to just Keys
+
+### Version 0.0.0.4
+- New Proto Sprite for John and Bootsplash
