@@ -1,7 +1,7 @@
 ## Change Log
 
 ### Version 0.0.0.1
-- JohnBuisness now exists
+- John Buisness now exists
 
 ### Version 0.0.0.2
 - **John Buisness Can Move!**
