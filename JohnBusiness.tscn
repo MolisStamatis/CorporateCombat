@@ -1,7 +1,7 @@
 [gd_scene load_steps=5 format=2]
 
 [ext_resource path="res://Code/JohnBuisness/JohnBusiness.gd" type="Script" id=1]
-[ext_resource path="res://Art/JohnBuisness/proto.png" type="Texture" id=2]
+[ext_resource path="res://Art/JohnBuisness/proto2.png" type="Texture" id=2]
 
 [sub_resource type="SpriteFrames" id=1]
 animations = [ {
@@ -12,16 +12,15 @@ animations = [ {
 } ]
 
 [sub_resource type="RectangleShape2D" id=2]
-extents = Vector2( 32, 32 )
+extents = Vector2( 44, 64.5 )
 
 [node name="JohnBusiness" type="KinematicBody2D"]
 script = ExtResource( 1 )
-__meta__ = {
-"_edit_group_": true
-}
 
 [node name="Art" type="AnimatedSprite" parent="."]
+scale = Vector2( 4, 4 )
 frames = SubResource( 1 )
 
 [node name="Hitbox" type="CollisionShape2D" parent="."]
+position = Vector2( 0, 0.5 )
 shape = SubResource( 2 )
