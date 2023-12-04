@@ -11,7 +11,7 @@ config_version=4
 [application]
 
 config/name="CorporateCombat"
-run/main_scene="res://JohnBusiness.tscn"
+run/main_scene="res://Scenes/JohnBusiness.tscn"
 boot_splash/image="res://Art/bootsplash.png"
 boot_splash/bg_color=Color( 0.0313726, 0, 0.329412, 1 )
 config/icon="res://Art/JohnBuisness/proto2.png"
