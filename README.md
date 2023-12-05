@@ -11,3 +11,6 @@
 
 ### Version 0.0.0.4
 - New Proto Sprite for John and Bootsplash
+
+### Swaped to GameMaker LTS
+- The Engine has a small learning curve
