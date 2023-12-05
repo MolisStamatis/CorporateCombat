@@ -14,3 +14,6 @@
 
 ### Swaped to GameMaker LTS
 - The Engine has a small learning curve
+
+### Version GM 0.0.0.1
+- John Buisness can move & a simple dialog system
