@@ -1,9 +1,10 @@
 ## Change Log
 
-### Version 0.0.0.1
+### GD Version 0.0.0.1
+- Godot project setup
 - John Buisness now exists
 
-### Version 0.0.0.2
+### GD Version 0.0.0.2
 - **John Buisness Can Move!**
 
 ### GD Version 0.0.0.3
