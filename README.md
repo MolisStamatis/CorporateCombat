@@ -2,7 +2,7 @@
 
 ### GD Version 0.0.0.1
 - Godot project setup
-- John Buisness now exists
+- John Buisness scene now exists
 
 ### GD Version 0.0.0.2
 - **John Buisness Can Move!**
@@ -11,15 +11,18 @@
 - Keys (Physical) for John Buisness now swapped to just Keys
 
 ### GD Version 0.0.0.4
-- New Proto Sprite for John and Bootsplash
+- New Proto Sprite for John 
+- Bootsplash
 
-### GD Swaped to GameMaker LTS
-- The Engine has a small learning curve
+### Godot Swaped to GameMaker LTS
+- Godot had to big of a learning curve
+- GameMaker has a small learning curve
 
 ### GD Version GM 0.0.0.1
-- John Buisness can move & a simple dialog system
+- John Buisness can move 
+- Prototype NPC dialog system
 
 ### Version GM 0.0.0.2
 - New John Buisness Proto Image In Works
 - Added Global Speed Varible
-- **Removed NPC Testing Framework**
+- **Removed NPC Testing Dialog Framework**
