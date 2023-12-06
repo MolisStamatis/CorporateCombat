@@ -17,3 +17,8 @@
 
 ### Version GM 0.0.0.1
 - John Buisness can move & a simple dialog system
+
+### Version GM 0.0.0.2
+- New John Buisness Proto Image In Works
+- Added Global Speed Varible
+- **Removed NPC Testing Framework**
